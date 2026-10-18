@@ -29,19 +29,19 @@ Supports Windows, Linux and macOS locally and remotely, plus Android and iOS/iPa
 
 **Status:** Version 2.1.0 released and successfully tested on physical hardware.
 
-### MOH Offline
+### [MOH Offline](https://github.com/slauf82/moh_offline)
 
 Fully offline clinical workflow and documentation application focused on ENT workflows. Modernizes existing medical business logic while preserving established processes and reducing proprietary platform dependencies.
 
 **Status:** Functional offline application; further improvements planned.
 
-### Felicity API
+### [Felicity API](https://github.com/slauf82/felicityAPI)
 
 Home Assistant integration for Felicity Solar inverter and battery systems, providing access to device and operating data.
 
 **Status:** Operational and under continued development.
 
-### Koplenti ACStorage
+### [Koplenti ACStorage](https://github.com/slauf82/koplenti_acstorage)
 
 Local PV battery control combining Home Assistant automation with hardware integration for Kostal ACStorage systems.
 
@@ -49,7 +49,7 @@ Focuses on coordinated inverter control, charging and discharging strategies, PV
 
 **Status:** Actively used in production.
 
-### Appliance State Reconstruction
+### [Appliance State Reconstruction](https://github.com/slauf82/appliance-state-reconstruction)
 
 Framework for reconstructing reliable device states from incomplete, delayed or inconsistent data sources.
 
