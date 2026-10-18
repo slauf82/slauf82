@@ -29,19 +29,19 @@ Unterstützt Windows, Linux und macOS lokal und remote sowie Android und iOS/iPa
 
 **Status:** Version 2.1.0 veröffentlicht und erfolgreich auf realer Hardware getestet.
 
-### MOH Offline
+### [MOH Offline](https://github.com/slauf82/moh_offline)
 
 Vollständig offline nutzbare Anwendung für klinische Workflows und Dokumentation mit Schwerpunkt im HNO-Bereich. Modernisiert bestehende medizinische Fachlogik, erhält etablierte Abläufe und reduziert Abhängigkeiten von proprietären Plattformen.
 
 **Status:** Funktionsfähige Offline-Anwendung; weitere Verbesserungen geplant.
 
-### Felicity API
+### [Felicity API](https://github.com/slauf82/felicityAPI)
 
 Home-Assistant-Integration für Wechselrichter und Batteriespeicher von Felicity Solar mit Zugriff auf Geräte- und Betriebsdaten.
 
 **Status:** Produktiv nutzbar und in kontinuierlicher Weiterentwicklung.
 
-### Koplenti ACStorage
+### [Koplenti ACStorage](https://github.com/slauf82/koplenti_acstorage)
 
 Lokale Steuerung von PV-Batteriespeichern mit Home-Assistant-Automatisierung und Hardware-Anbindung für Kostal-ACStorage-Systeme.
 
@@ -49,7 +49,7 @@ Schwerpunkte sind die koordinierte Wechselrichtersteuerung, Lade- und Entladestr
 
 **Status:** Produktiv im Einsatz.
 
-### Appliance State Reconstruction
+### [Appliance State Reconstruction](https://github.com/slauf82/appliance-state-reconstruction)
 
 Framework zur Rekonstruktion zuverlässiger Gerätezustände aus unvollständigen, zeitversetzten oder widersprüchlichen Datenquellen.
 
